@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>CI/CD pipeline with firebase and github</h1>
+    <h1>CI/CD pipeline with firebase and github action</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
